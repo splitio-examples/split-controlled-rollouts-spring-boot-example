@@ -1,5 +1,6 @@
-package com.example.demo;
+package com.example.demo.controller;
 
+import com.example.demo.controller.DemoController;
 import io.split.client.SplitClient;
 import io.split.client.api.SplitResult;
 import org.slf4j.Logger;
